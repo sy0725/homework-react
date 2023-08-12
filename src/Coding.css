@@ -1,0 +1,31 @@
+.Coding {
+  display: inline-flex;
+  width: 110px;
+  height: 42px;
+  border-radius: 8px;
+  border: 2px solid white;
+  background: #26df73;
+  font-size: 12px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-weight: 800;
+  margin-top: 20px;
+}
+
+.Done {
+  display: inline-flex;
+  width: 110px;
+  height: 42px;
+  border-radius: 8px;
+  border: 2px solid white;
+  background: #e52f2f;
+  font-size: 12px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-weight: 800;
+  margin-top: 20px;
+}
